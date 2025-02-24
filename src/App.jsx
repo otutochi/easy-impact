@@ -7,6 +7,9 @@ const App = () => {
     <div className="App">
       <h1>Easy Impact</h1>
       <h2>Impact made easy</h2>
+      <p><i>"Finding meaningful volunteer opportunities shouldn't be complicated. 
+        Easy Impact brings together organizations that need your support&mdash;all in one place.
+        Take the next step towards making a real impact with just one simple click."</i></p>
 
       <div className="projects">
         <Project org='Wesley Foundation' loc="Saint Simons, GA" imgpath='\wesley.png' link='https://www.statewesley.org/' />
