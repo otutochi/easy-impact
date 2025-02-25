@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='\EasyImpactGIF.gif' title='Video Walkthrough' alt='Video Walkthrough' />
+<img src='public\EasyImpactGIF.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with ...  
